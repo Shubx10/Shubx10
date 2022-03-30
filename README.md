@@ -26,9 +26,11 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Shubx10&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="shubx10"></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shubx10&theme=tokyonight&show_icons=true&locale=en" alt="shubx10"></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubx10&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="shubx10"></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubx10&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="shubx10"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=shubx10&theme=tokyonight&show_icons=true&locale=en" alt="shubx10"></p>
+
+
 
 
 
