@@ -1,7 +1,7 @@
 [![MasterHead](https://images.hdqwalls.com/wallpapers/programming-world-map-on.jpg)](https://Shubx10.io)
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img alt="coding" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="1500" height="500">
+<img alt="coding" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="1500" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubx10&label=Profile%20views&color=0e75b6&style=flat" alt="shubx10" /> </p>
 
