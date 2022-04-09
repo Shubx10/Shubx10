@@ -28,6 +28,19 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubx10&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="shubx10"></p>
 
+<hr>
+
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubx10&theme=tokyonight"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Shubx10&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
+
 
 
 
