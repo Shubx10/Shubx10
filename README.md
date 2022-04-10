@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **frontend development**
 
-- 📫 How to reach me **shubhamedx26@gmail.com**
+- 📫 How to reach me **<a href="https://linkedin.com/in/shubham-kumar-017352226" target=blank>Linkedin</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
