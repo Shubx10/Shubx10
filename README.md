@@ -1,5 +1,5 @@
 [![MasterHead](https://d33wubrfki0l68.cloudfront.net/c29d0c185426842fa27bca13dee75c2c4457f9a8/ff26b/img/octocat-banner.jpg)](https://Shubx10.io)
-<h1 align="center">Hi ! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">, I'm Shubham Kumar</h1>
+<h1 align="center">Hi ! <img src="https://c.tenor.com/QG65z_UQSCgAAAAi/jorrparivar-digital-pratik.gif" width="50"> , I'm Shubham Kumar</h1>
 <h3 align="center">A passionate developer</h3>
 <img alt="coding" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="1500" height="400">
 <hr>
