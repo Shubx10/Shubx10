@@ -33,8 +33,7 @@
    </tr> 
    <tr>
      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubx10&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook"  display=block           width=100% height=auto  alt="2" ></td>
-     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img          src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"></td>
+     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img      src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/muTtyh3hW3MAAAAi/rabbit-dance.gif" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"></td>
   </tr>
 </table>
 
