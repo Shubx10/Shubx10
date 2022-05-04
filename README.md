@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shubhamedx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamedx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-kumar-017352226" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-017352226" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhamedx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamedx" height="30" width="40" /></a>
+<a href="https://twitter.com/shubhamedx" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3992/premium/3992594.png?token=exp=1651656841~hmac=2a3e3aaeb4dad2defc4915437f83b5bf" alt="shubhamedx" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-kumar-017352226" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1651657082~hmac=3dfd25eb149e30b10aa65e967b57fed0" alt="shubham-kumar-017352226" height="40" width="40" /></a>
+<a href="https://instagram.com/shubhamedx" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955027.png?token=exp=1651657219~hmac=059f0addb369c60fa622e5c9d530e148" alt="shubhamedx" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
