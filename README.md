@@ -8,6 +8,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubx10&label=Visitors&color=0e75b6&style=flat" alt="shubx10" /> </p>
 <hr>
+
+## Web development | Competitive Coding
+
+<a href="https://linkedin.com/in/shubham-kumar-017352226" target="_blank">
+  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1651657082~hmac=3dfd25eb149e30b10aa65e967b57fed0" alt="linkedin"  />
+</a>
+<a href="https://twitter.com/shubhamedx" target="_blank">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" />
+</a>
+<a href="https://instagram.com/shubhamedx" target="_blank">
+  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955027.png?token=exp=1653131959~hmac=2db370e1a49a6f99db53fdefdaaa4c4e" alt="instagram"/>
+ <a href="mailto:shubhamedx26@gmail.com" target="_blank">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" />
+</a>
+</a>
+<br>
+<hr>
 <!-- - 🌱 I’m currently learning **javascript** -->
 
 <!-- - 💬 Ask me about **frontend development** -->
