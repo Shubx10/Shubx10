@@ -19,9 +19,9 @@
 </a>
 <a href="https://instagram.com/shubhamedx" target="_blank">
   <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955027.png?token=exp=1653131959~hmac=2db370e1a49a6f99db53fdefdaaa4c4e" alt="instagram"/>
+</a>
  <a href="mailto:shubhamedx26@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" />
-</a>
 </a>
 <br>
 <hr>
