@@ -1,11 +1,7 @@
 <!-- [![MasterHead](https://d33wubrfki0l68.cloudfront.net/c29d0c185426842fa27bca13dee75c2c4457f9a8/ff26b/img/octocat-banner.jpg)](https://Shubx10.io) -->
-<!-- <h1>Hi ! <img src="https://c.tenor.com/QG65z_UQSCgAAAAi/jorrparivar-digital-pratik.gif" width="50"> , I'm Shubham Kumar</h1> -->
 ## Hi ! <img src="https://c.tenor.com/QG65z_UQSCgAAAAi/jorrparivar-digital-pratik.gif" width="45"> , I'm Shubham Kumar
 
 <img alt="coding" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="1500" height="400">
-<!-- <img align="right" alt="coding" width="400" src="https://c.tenor.com/Xr1mzn6I4AwAAAAC/moving-formation.gif" height="365"> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/shubhamedx" target="_blank"><img src="https://img.shields.io/twitter/follow/shubhamedx?logo=twitter&style=for-the-badge" alt="shubhamedx" /></a></p> -->
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shubx10&label=Visitors&color=0e75b6&style=flat" alt="shubx10" /></p>
 <hr>
@@ -26,12 +22,11 @@
 </a>
 <br>
 <hr>
+
+
 <!-- - 🌱 I’m currently learning **javascript** -->
-
 <!-- - 💬 Ask me about **frontend development** -->
-
 <!-- - 📫 How to reach me **<a href="https://linkedin.com/in/shubham-kumar-017352226" target="_blank">Linkedin</a>** -->
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhamedx" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3992/premium/3992594.png?token=exp=1651656841~hmac=2a3e3aaeb4dad2defc4915437f83b5bf" alt="shubhamedx" height="40" width="40" /></a>
@@ -42,7 +37,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="47" height="47"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="47" height="47"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="39" height="39"/> </a></p>
  -->
-<!-- # Github Activity📊: -->
+ 
+ 
 ### Github Activity📊
 <table>
   <tr>
@@ -56,7 +52,6 @@
 </table>
 <hr>
 
-<!-- # Productivity Stats📈: -->
 ### Productivity Stats📈
 <table>
   <tr>
