@@ -1,5 +1,6 @@
 <!-- [![MasterHead](https://d33wubrfki0l68.cloudfront.net/c29d0c185426842fa27bca13dee75c2c4457f9a8/ff26b/img/octocat-banner.jpg)](https://Shubx10.io) -->
-<h1>Hi ! <img src="https://c.tenor.com/QG65z_UQSCgAAAAi/jorrparivar-digital-pratik.gif" width="50"> , I'm Shubham Kumar</h1>
+<!-- <h1>Hi ! <img src="https://c.tenor.com/QG65z_UQSCgAAAAi/jorrparivar-digital-pratik.gif" width="50"> , I'm Shubham Kumar</h1> -->
+## Hi ! <img src="https://c.tenor.com/QG65z_UQSCgAAAAi/jorrparivar-digital-pratik.gif" width="45"> , I'm Shubham Kumar
 
 <img alt="coding" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="1500" height="400">
 <!-- <img align="right" alt="coding" width="400" src="https://c.tenor.com/Xr1mzn6I4AwAAAAC/moving-formation.gif" height="365"> -->
