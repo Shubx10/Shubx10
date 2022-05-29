@@ -1,11 +1,11 @@
-## Hi ! <img src="https://c.tenor.com/QG65z_UQSCgAAAAi/jorrparivar-digital-pratik.gif" width="45"> , I'm Shubham Kumar
+# <i>Hi ! <img src="https://c.tenor.com/QG65z_UQSCgAAAAi/jorrparivar-digital-pratik.gif" width="45"> , I'm Shubham Kumar</i>
 
 <img alt="coding" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="1500" height="400">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shubx10&label=Visitors&color=0e75b6&style=flat" alt="shubx10" /></p>
 <hr>
 
-## Web development | Competitive Coding
+## <i>Web development | Competitive Coding</i>
 
 <a href="https://linkedin.com/in/shubham-kumar-017352226" target="_blank">
   <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1651657082~hmac=3dfd25eb149e30b10aa65e967b57fed0" alt="linkedin"  />
@@ -23,7 +23,7 @@
 <hr>
 
 
-### Github Activity📊
+### <i>Github Activity📊</i>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=shubx10&theme=tokyonight&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
@@ -36,7 +36,7 @@
 </table>
 <hr>
 
-### Productivity Stats📈
+### <i>Productivity Stats📈</i>
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubx10&theme=tokyonight"  display=block width=100% height=auto  alt="graph" ></td>
