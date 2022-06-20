@@ -45,14 +45,5 @@
   </tr>
 </table>
 
- <!-- <a href="https://instagram.com/shubhamedx" target="_blank">
-  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955027.png?token=exp=1653131959~hmac=2db370e1a49a6f99db53fdefdaaa4c4e" alt="instagram"/>
-</a> -->
-
-
-
-
-
-
 
 
