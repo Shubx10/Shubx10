@@ -8,7 +8,7 @@
 ## <i>Web development | Competitive Coding</i>
 
 <a href="https://linkedin.com/in/shubham-kumar-017352226" target="_blank">
-  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1651657082~hmac=3dfd25eb149e30b10aa65e967b57fed0" alt="linkedin"  />
+  <img align="left" width="26px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1657020776~hmac=32fe66bde10fa02ea03cff09f46f6808" alt="linkedin"  />
 </a>
 
 <a href="https://twitter.com/shubhamedx" target="_blank">
