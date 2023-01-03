@@ -38,7 +38,7 @@
 </table>
 <hr>
 
-### <i>Productivity Stats📈</i>
+<!-- ### <i>Productivity Stats📈</i>
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubx10&theme=tokyonight"  display=block width=100% height=auto  alt="graph" ></td>
@@ -46,7 +46,7 @@
    <tr>
      <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubx10&theme=tokyo-night" width="100%" alt="stat_graph"></td>
   </tr>
-</table>
+</table> -->
 
 
 
