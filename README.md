@@ -36,9 +36,9 @@
      width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"></td>
   </tr>
 </table>
-<hr>
+<!-- <hr>
 
-<!-- ### <i>Productivity Stats📈</i>
+### <i>Productivity Stats📈</i>
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubx10&theme=tokyonight"  display=block width=100% height=auto  alt="graph" ></td>
