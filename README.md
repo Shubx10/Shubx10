@@ -29,8 +29,8 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubx10&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
    </tr> 
    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubx10&theme=tokyonight&layout=compact" display=block width=100% height=auto     
-      alt="2" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubx10&theme=tokyonight&layout=compact" display=block width=100% height=auto     
+     alt="2" ></td>
      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" 
      width="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/muTtyh3hW3MAAAAi/rabbit-dance.gif" 
      width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"></td>
@@ -44,7 +44,7 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubx10&theme=tokyonight"  display=block width=100% height=auto  alt="graph" ></td>
    </tr> 
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=Shubx10&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="stat_graph" ></td>
+     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubx10&theme=tokyo-night" width="100%" alt="stat_graph"></td>
   </tr>
 </table>
 
