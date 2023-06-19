@@ -5,7 +5,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shubx10&label=Visitors&color=0e75b6&style=flat" alt="shubx10" /></p>
 <hr>
 
-## <i>Web development | Competitive Coding</i>
+<!--## <i>Web development | Competitive Coding</i>
 
 <a href="https://linkedin.com/in/shubham-kumar-017352226" target="_blank">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin"  />
@@ -35,7 +35,7 @@
      width="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/muTtyh3hW3MAAAAi/rabbit-dance.gif" 
      width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"></td>
   </tr>
-</table>
+</table>-->
 <!-- <hr>
 
 ### <i>Productivity Stats📈</i>
