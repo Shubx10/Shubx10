@@ -25,11 +25,11 @@
 ### <i>Github Activity📊</i>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=shubx10&show_icons=true&theme=tokyonight" display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubx10&show_icons=true&theme=tokyonight" display=block width=100% height=auto alt="1"></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubx10&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
    </tr> 
    <tr>
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubx10&theme=tokyonight&layout=compact" display=block width=100% height=auto     
+     <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubx10&theme=tokyonight&layout=compact" display=block width=100% height=auto     
      alt="2" ></td>
      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" 
      width="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/muTtyh3hW3MAAAAi/rabbit-dance.gif" 
