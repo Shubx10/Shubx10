@@ -5,16 +5,13 @@
 <a href="https://linkedin.com/in/shubham-kumar-017352226" target="_blank">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin"  />
 </a>
-
 <a href="https://twitter.com/shubhamedx" target="_blank">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" />
 </a>
-
  <a href="mailto:shubhamedx26@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" />
 </a>
 <br>
-<hr>
 
 
 <!--### <i>Github Activity📊</i>
@@ -31,18 +28,4 @@
      width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50"></td>
   </tr>
 </table>
-<hr>
-
-### <i>Productivity Stats📈</i>
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubx10&theme=tokyonight"  display=block width=100% height=auto  alt="graph" ></td>
-   </tr> 
-   <tr>
-     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubx10&theme=tokyo-night" width="100%" alt="stat_graph"></td>
-  </tr>
-</table> -->
-
-
-
-
+<hr>-->
