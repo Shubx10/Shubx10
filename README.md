@@ -2,7 +2,6 @@
 
 <!--<img alt="coding" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width="1500" height="400">-->
 <img alt="coding" src="assets/github_gif3.gif">
-<hr>
 
 <a href="https://linkedin.com/in/shubham-kumar-017352226" target="_blank">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin"  />
